@@ -1,4 +1,4 @@
-# 🪪 Real-Live-Bank-sCardDesign
+# 💳 Real-Live-Bank-sCardDesign
 
 ## 📑 Project Overview
 Efforts are underway to create a dynamic bank card that seamlessly transforms between its two sides using HTML and CSS. Witness the fusion of design and interactivity as the card undergoes a visual metamorphosis at the intersection of style and coding prowess.
